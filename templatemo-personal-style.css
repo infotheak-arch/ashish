@@ -690,7 +690,7 @@ https://templatemo.com/tm-593-personal-shape
 
         .about-text h1 {
             font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
-            /* font-size: 2.5rem; */
+            font-size: 2.5rem;
             margin-bottom: 2rem;
             color: var(--text-primary);
             font-weight: 500;
@@ -1152,7 +1152,7 @@ https://templatemo.com/tm-593-personal-shape
             }
 
             .hero h1 {
-                /* font-size: 3rem; */
+                font-size: 3rem;
             }
 
             .hero .subtitle {
@@ -1208,6 +1208,7 @@ https://templatemo.com/tm-593-personal-shape
             }
 
         }
+
 
 
 
