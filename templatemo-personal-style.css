@@ -688,7 +688,7 @@ https://templatemo.com/tm-593-personal-shape
 
         }
 
-        .about-text h3 {
+        .about-text h1 {
             font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
             font-size: 2.5rem;
             margin-bottom: 2rem;
@@ -1180,7 +1180,7 @@ https://templatemo.com/tm-593-personal-shape
                 gap: 1.5rem;
             }
 
-            .about-text h3 {
+            .about-text h1 {
                 font-size: 2rem;
             }
 
@@ -1206,4 +1206,5 @@ https://templatemo.com/tm-593-personal-shape
         
                 padding: 0 1rem;
             }
+
         }
