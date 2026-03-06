@@ -823,7 +823,8 @@ h6,
 
 h1, .h1 {
   line-height: 1.1;
-  font-size: 75px; }
+  /* font-size: 75px;  */
+	}
 
 h2, .h2, .counter-item-two .count-text, .pricing-item .price {
   line-height: 1.15;
